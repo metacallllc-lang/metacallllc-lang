@@ -16,15 +16,30 @@ The public record covers architecture, dated operating observations, failures an
 
 Continuous operation is **PARTIAL / PROVEN-SCOPED**. Full successful continuity and repeatable economic outcomes remain unproven; revenue and cash remain **UNKNOWN** unless authoritatively measured. Implementation and private operational data remain private.
 
-## Current milestone — October 15, 2026
+## Current milestone — October 17, 2026
 
-**Hermes v0.22.2; self-funding enforcement active and accepted restrictively.** Production base: `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, with private local repairs. v0.22.1 remains the historical migration/rollback milestone. **15/15 acceptance groups passed**, but ordinary paid admission is **`CLOSED_PENDING_RECOVERY_BOUND`** and `self_funding_status` is **UNKNOWN**.
+**Paid-only company inference is live under owner veto; customer-funded operation is not yet proven.** The existing MetaBot / MetaCall routing and funding path now denies free production inference and uses a bounded paid Nous model set for company execution.
 
-The dated Nous balance is **$63.39905570**; activation B0 was **$63.791292**. The 20% reserve component is **$12.76**, while the full reserve and recovery/close bound remain **UNKNOWN**. Existing credit is runway, not earned replenishment. Six approved paid primaries and empty automatic fallback chains are preserved; one gateway was verified. Super renewal was cancelled at period end, retaining access through **November 14, 2026**; no purchase or top-up occurred.
+A native paid Sonnet request passed the physical funding guard and reportedly settled at **$0.011641**. A live paid-route transition reached an alternate paid Gemini request after Sonnet → DeepSeek → Kimi, but that run was interrupted before completion, so full live failover remains **NOT YET PROVEN**.
 
-The economic-resume mission reached native CEO job `f1a268bf0023`; the current portfolio winner remains **UNKNOWN**. The Arcade.dev A23 draft is internal and unsent; unsupported claims and owner-approval wording were returned for correction. No new revenue, customer cash or sponsor award is claimed. `max_iterations` is a hard bound; `run_budget_seconds` is not a hard wall-clock kill.
+Before live acceptance, Nous reported **$60.085813** of existing credit. The current bounded authority protects **$10** as reserve and permits up to **$50** as operating inference runway, with no new purchase or top-up authority.
 
-[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [Dated evidence and follow-through](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) · [Funding evidence commit](https://github.com/metacallllc-lang/hermes-autonomous-company/commit/09e9d761ac0ef3e13b87af20ea6baddb1218ac36)
+A fresh treasury read measured **$0.96 current/available cash**. Recognized revenue remains **UNKNOWN**; no customer payment is claimed.
+
+Commercially, public QuickBooks cleanup/catch-up listings showed buyer demand, but the owner does not have an Upwork account, so those listings are retained as market evidence rather than executable pipeline. **Fiverr is now the primary marketplace path** because an established seller presence already exists. Public pages show an existing reputation/order history, while seller inbox, orders and earnings remain **UNKNOWN** behind the platform's human-verification boundary. A cleanup/catch-up positioning package has been prepared but not published.
+
+The next proof target is economic rather than architectural:
+
+```text
+paid inference
+→ executable buyer work
+→ governed response
+→ paid engagement
+→ authoritative payment evidence
+→ replenished inference runway
+```
+
+[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 17 paid-inference / Fiverr evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
 
 ## Collaborate
 
