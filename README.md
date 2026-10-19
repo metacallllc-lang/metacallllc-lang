@@ -16,23 +16,29 @@ The public record covers architecture, dated operating observations, failures an
 
 Continuous operation is **PARTIAL / PROVEN-SCOPED**. Full successful continuity and repeatable economic outcomes remain unproven; revenue and cash remain **UNKNOWN** unless authoritatively measured. Implementation and private operational data remain private.
 
-## Current milestone — October 18, 2026
+## Current milestone — October 19, 2026
 
-**The autonomous company is back on commercial execution, not another architecture cycle.** The October 17 paid-only/free-model-veto state has been superseded by later owner authorization: `free_nous_allowed=true`, `paid_only=false`, with CEO primary `deepseek/deepseek-v4.1-flash-1017`. Authorized free Nous use is available under the amended funding policy; model choice does not change authority.
+**The company is now waiting on scoped commercial triggers rather than a false global evidence barrier.** October 19 repairs corrected marketplace disposition, Fiverr authority classification, sponsorship priority and mission-evidence scoping while preserving the locked architecture.
 
-Later owner-visible production evidence reports approximately **$13.26 usable Nous credit**, an authenticated persistent Fiverr seller session readable at the observed checkpoint, removal of the IRS-claim gig leaving **3 gigs**, live cleanup/catch-up repositioning of existing gigs, and governed **Glanzrock** first-contact outreach **sent + independently verified in Sent**.
+Current public boundary:
 
-Canonical evidence outranks Command Center/UI projection. A stale observer status is not by itself a reason to reopen gateway, routing, scheduler or lifecycle engineering. The owner remains **root + veto**; the CEO is the autonomous operator.
+- routine Fiverr seller work is **company-operable** when the existing action-specific gates admit it;
+- owner intervention requires a fresh observed CAPTCHA, MFA, identity-verification or genuinely non-delegable personal/legal challenge;
+- scheduled-executive Fiverr mutation/publication remains **unproven**;
+- sponsorship is class-scoped and cannot suppress higher-priority buyer/reply/proposal/follow-up/Fiverr work;
+- the standing mission advanced to **7 / 9 MET**;
+- the post-repair internal dry run recorded **WAITING**, **0 inference calls** and **no global barriers**;
+- recognized revenue and collected cash remain **unproven / unmeasured** at this checkpoint.
 
-The current commercial ordering is:
+The commercial ordering remains:
 
 ```text
 SELL → CLOSE → COLLECT → DELIVER
 ```
 
-Buyer reply, signed customer, recognized revenue and collected cash remain evidence-gated and are not inferred from provider acceptance or Sent-folder verification.
+The next proof is execution at the commercial edge: governed marketplace action → verified buyer/order → authoritative payment evidence → collected cash.
 
-[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 18 reconciliation](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-18.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
+[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 19 reconciliation](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-19.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
 
 ## Collaborate
 
