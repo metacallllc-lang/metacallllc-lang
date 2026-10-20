@@ -16,19 +16,19 @@ The public record covers architecture, dated operating observations, failures an
 
 Continuous operation is **PARTIAL / PROVEN-SCOPED**. Full successful continuity and repeatable economic outcomes remain unproven; revenue and cash remain **UNKNOWN** unless authoritatively measured. Implementation and private operational data remain private.
 
-## Current milestone — October 19, 2026
+## Current milestone — October 20, 2026
 
-**The company is now waiting on scoped commercial triggers rather than a false global evidence barrier.** October 19 repairs corrected marketplace disposition, Fiverr authority classification, sponsorship priority and mission-evidence scoping while preserving the locked architecture.
+**MetaBot now treats economic continuation as the default pre-revenue behavior.** The existing CEO loop performs bounded anti-stale economic discovery before settling on WAITING, can wake on a commercial due-time through the existing CEO task, actively tracks funding/runway opportunities, and reconciles terminal executive work to exact parent dispositions.
 
 Current public boundary:
 
-- routine Fiverr seller work is **company-operable** when the existing action-specific gates admit it;
-- owner intervention requires a fresh observed CAPTCHA, MFA, identity-verification or genuinely non-delegable personal/legal challenge;
-- scheduled-executive Fiverr mutation/publication remains **unproven**;
-- sponsorship is class-scoped and cannot suppress higher-priority buyer/reply/proposal/follow-up/Fiverr work;
-- the standing mission advanced to **7 / 9 MET**;
-- the post-repair internal dry run recorded **WAITING**, **0 inference calls** and **no global barriers**;
-- recognized revenue and collected cash remain **unproven / unmeasured** at this checkpoint.
+- buyer/reply/proposal/follow-up/Fiverr/MetaCall/MetaBot/funding/partnership/sponsorship work outranks mission-only review;
+- transient inference-capacity shortage is typed and scoped rather than automatically freezing deterministic company work;
+- funding discovery has produced source-backed preparation opportunities, but no award is claimed;
+- Step5 was not promoted at the retained checkpoint because the requested free route was absent from the authenticated Nous catalog;
+- the latest owner-visible state was **WAITING** on a class-scoped marketplace condition with no active assignment or pending company event;
+- pipeline records remain opportunities, not customers;
+- recognized revenue and collected cash remain **unproven / unmeasured**.
 
 The commercial ordering remains:
 
@@ -36,9 +36,9 @@ The commercial ordering remains:
 SELL → CLOSE → COLLECT → DELIVER
 ```
 
-The next proof is execution at the commercial edge: governed marketplace action → verified buyer/order → authoritative payment evidence → collected cash.
+The next proof is an externally verified economic advance: governed buyer/marketplace action, proposal/custom-offer outcome, funding/resource award, or authoritative payment evidence.
 
-[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 19 reconciliation](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-19.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
+[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 20 reconciliation](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-20.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
 
 ## Collaborate
 
