@@ -2,44 +2,141 @@
   <img src="assets/banner.jpg" alt="VEXO banner with a cyan and violet logo over a dark connected network" width="100%">
 </p>
 
-<h1 align="center">Building MetaBot on Hermes</h1>
+<h1 align="center">MetaBot Solutions — Autonomous Company OS on Hermes</h1>
 
-<p align="center"><strong>One AI CEO. A governed executive team. Independently verified outcomes.</strong></p>
+<p align="center"><strong>One AI CEO. A governed C-suite. Evidence-first execution. Human owner = root + veto.</strong></p>
 
-I'm building a human-governed autonomous-company operating system on [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent). The owner retains **root + veto**; the CEO selects authorized work and delegates to executives.
+I’m building a human-governed autonomous company on [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent): a system designed to pursue real economic objectives continuously while keeping authority, evidence, verification and company state explicit.
 
-**[Explore the build →](https://github.com/metacallllc-lang/hermes-autonomous-company)** · **[60-second evidence walkthrough →](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/DEMO.md)**
+**[Explore the build →](https://github.com/metacallllc-lang/hermes-autonomous-company)** · **[Current proof & limits →](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md)** · **[Commercial strategy →](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/COMMERCIAL_OPERATING_STRATEGY.md)** · **[Evidence index →](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md)**
+
+## Operating doctrine
+
+- **Owner = root authority + veto**, not routine dispatcher, prompt router or approval engine.
+- **CEO chooses routine authorized work** and delegates through the existing C-suite.
+- One canonical CEO, one company state, one governance/evidence chain.
+- **Unknown stays UNKNOWN.** Pipeline, provider acceptance and internal activity are not promoted into customers, revenue or cash without evidence.
+- Commercial work outranks nonessential engineering.
+- Failed identities stay fenced; retries require new evidence or a legitimate retry trigger.
+- Standing doctrine:
+
+> **Every fail needs to be a lesson for the C-suite improving the policy every time.**
+
+Failures are preserved, classified and used to harden policy, process, selector logic, verification or acceptance criteria when warranted. Repeating the same effective failure without learning is itself stagnation.
+
+## What the company is meant to do
+
+The target is not an agent demo. The company is being built to complete the full economic lifecycle:
+
+```text
+SELL
+→ CLOSE
+→ ONBOARD
+→ COLLECT / SECURE PAYMENT
+→ FULFILL
+→ VERIFY / QA
+→ DELIVER
+→ COLLECT BALANCE
+→ RETAIN / UPSELL / REFERRAL
+```
+
+The first important proof is not another architecture milestone. It is a real, independently verified external economic result.
+
+## Multi-engine economic mission
+
+MetaBot / MetaCall does not rely on one funnel. The CEO is expected to allocate effort across the highest-value currently executable opportunities:
+
+- **Marketplace / fast cash** — bounded services and buyer/order surfaces;
+- **MetaCall Solutions** — QuickBooks cleanup, reconciliation and finance-service opportunities inside verified delivery capacity;
+- **MetaBot Solutions** — autonomous-workflow pilots, digital workforces, licensing and strategic partnerships;
+- **Investors / acquirers** — strategic capital, licensing and transaction paths;
+- **Sponsors / resources** — model credits, compute, hardware, startup programs, grants and research partnerships.
+
+A useful portfolio rule is:
+
+```text
+expected value × probability × speed × margin × strategic value
+÷ cost / effort
+```
+
+When cash/runway is tight, fast-cash and resource-acquisition opportunities receive more weight—but the other engines remain active.
+
+## Current public evidence boundary
+
+The public repository is currently indexed through **October 22, 2026**.
+
+What is publicly supported:
+
+- one canonical Hermes-native CEO/company loop;
+- owner **root + veto** governance;
+- scheduled and event-driven CEO execution demonstrated within scoped windows;
+- independent verification and failure preservation;
+- commercial due-time waking and live buyer-signal discovery demonstrated;
+- current verified MetaCall delivery scope kept narrower than the broader roadmap;
+- semantic progress accounting that distinguishes real state change from tool/model/process activity;
+- bounded no-effect execution recorded as **STAGNATION**, not healthy progress;
+- failure-learning doctrine incorporated into governance.
+
+What is **not** publicly claimed:
+
+- a signed new customer from the current autonomous campaign;
+- collected customer cash;
+- recognized recurring revenue;
+- a sponsor/investor/acquirer commitment;
+- repeatable customer acquisition;
+- full 24/7 economic autonomy;
+- the long-term liquidity objective achieved.
+
+The project deliberately keeps those boundaries strict.
+
+## Why this project exists
+
+Most agent demos show successful interactions.
+
+This project asks a harder question:
+
+> **Can an AI-led company carry durable authority, choose work, delegate, execute, verify, recover from failure, preserve causal evidence, and keep pursuing real economic objectives without turning the human owner into middleware?**
+
+That requires more than a good model. It requires an operating system around the model.
 
 ## Evidence first
 
-The public record covers architecture, dated operating observations, failures and corrections. It distinguishes launching work, completing it, verifying it and achieving an economic outcome.
-
-Continuous operation is **PARTIAL / PROVEN-SCOPED**. Full successful continuity and repeatable economic outcomes remain unproven; revenue and cash remain **UNKNOWN** unless authoritatively measured. Implementation and private operational data remain private.
-
-## Current milestone — October 20, 2026
-
-**MetaBot now treats economic continuation as the default pre-revenue behavior.** The existing CEO loop performs bounded anti-stale economic discovery before settling on WAITING, can wake on a commercial due-time through the existing CEO task, actively tracks funding/runway opportunities, and reconciles terminal executive work to exact parent dispositions.
-
-Current public boundary:
-
-- buyer/reply/proposal/follow-up/Fiverr/MetaCall/MetaBot/funding/partnership/sponsorship work outranks mission-only review;
-- transient inference-capacity shortage is typed and scoped rather than automatically freezing deterministic company work;
-- funding discovery has produced source-backed preparation opportunities, but no award is claimed;
-- Step5 was not promoted at the retained checkpoint because the requested free route was absent from the authenticated Nous catalog;
-- the latest owner-visible state was **WAITING** on a class-scoped marketplace condition with no active assignment or pending company event;
-- pipeline records remain opportunities, not customers;
-- recognized revenue and collected cash remain **unproven / unmeasured**.
-
-The commercial ordering remains:
+The project distinguishes every step in the external-effect chain:
 
 ```text
-SELL → CLOSE → COLLECT → DELIVER
+ACTION ATTEMPTED
+≠ PROVIDER ACCEPTED
+≠ DELIVERED
+≠ READ
+≠ HUMAN REPLY
+≠ SIGNED CUSTOMER
+≠ CASH COLLECTED
 ```
 
-The next proof is an externally verified economic advance: governed buyer/marketplace action, proposal/custom-offer outcome, funding/resource award, or authoritative payment evidence.
+A convenient next state is never treated as proof.
 
-[Current state](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [October 20 reconciliation](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-20.md) · [Traction](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/TRACTION.md)
+## Current priority
+
+The governing commercial rule is simple:
+
+> **Which current revenue, capital, customer, investor, sponsor, diligence or delivery action does this unblock?**
+
+If there is no concrete economic answer, commercial execution should generally outrank additional architecture work.
+
+The goal now is verified external value: a paid order, cash collected, a serious buyer conversation, a sponsor/resource commitment, investor/acquirer advancement, or another measurable economic transition.
 
 ## Collaborate
 
-Interested in technical review, research collaboration, infrastructure sponsorship or a governed-workflow pilot? Start with the [project overview](https://github.com/metacallllc-lang/hermes-autonomous-company) and [sponsorship page](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/SPONSORSHIP.md).
+I’m open to conversations with:
+
+- pilot customers;
+- enterprise partners;
+- infrastructure/model/hardware sponsors;
+- research and technical collaborators;
+- strategic investors or acquirers.
+
+Start with the **[60-second evidence walkthrough](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/DEMO.md)**, the **[project overview](https://github.com/metacallllc-lang/hermes-autonomous-company)**, **[sponsorship](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/SPONSORSHIP.md)**, or **[investor / strategic-partner thesis](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/INVESTORS.md)**.
+
+---
+
+<p align="center"><strong>MetaBot Solutions — humans retain authority; AI expands execution capacity.</strong></p>
