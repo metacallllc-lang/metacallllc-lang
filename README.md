@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="VEXO banner with a cyan and violet logo over a dark connected network" width="100%">
+  <img src="assets/banner.jpg" alt="MetaBot Solutions banner over a dark connected network" width="100%">
 </p>
 
 <h1 align="center">MetaBot Solutions — Autonomous Company OS on Hermes</h1>
@@ -63,7 +63,9 @@ When cash/runway is tight, fast-cash and resource-acquisition opportunities rece
 
 ## Current public evidence boundary
 
-The public repository is currently indexed through **October 22, 2026**.
+The public repository is currently indexed through **October 24, 2026**.
+
+**Current operating boundary:** governance is sealed/verified; Owner Attention is clear; deterministic economic checks continue; the production **CEO route is NONE**. Beam and Solar Mini4 retain scoped TOOL + CEO capability evidence but are not production-admitted. Step-3.7 earned production admission, was used by a real CRO production turn, failed independent verification, and was revoked. The failure was causally classified, the producer contract was corrected, the failed identity remains preserved, and lesson **L-304** records the learning.
 
 What is publicly supported:
 
@@ -75,6 +77,9 @@ What is publicly supported:
 - current verified MetaCall delivery scope kept narrower than the broader roadmap;
 - semantic progress accounting that distinguishes real state change from tool/model/process activity;
 - bounded no-effect execution recorded as **STAGNATION**, not healthy progress;
+- capability-scoped TOOL/CEO qualification separated from production authority;
+- evidence-based route rehabilitation and revocation without rewriting failure history;
+- a real production route failure preserved, causally diagnosed and used to harden the contract;
 - failure-learning doctrine incorporated into governance.
 
 What is **not** publicly claimed:
