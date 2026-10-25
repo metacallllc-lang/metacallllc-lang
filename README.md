@@ -63,30 +63,36 @@ When cash/runway is tight, fast-cash and resource-acquisition opportunities rece
 
 ## Current public evidence boundary
 
-The public repository is currently indexed through **October 24, 2026**.
+The public repository is now indexed through **October 25, 2026**.
 
-**Current operating boundary:** governance is sealed/verified; Owner Attention is clear; deterministic economic checks continue; the production **CEO route is NONE**. Beam and Solar Mini4 retain scoped TOOL + CEO capability evidence but are not production-admitted. Step-3.7 earned production admission, was used by a real CRO production turn, failed independent verification, and was revoked. The failure was causally classified, the producer contract was corrected, the failed identity remains preserved, and lesson **L-304** records the learning.
+**Current operating boundary:** governance remains sealed/verified; owner remains **root + veto**; natural production CEO execution has resumed through Beam; the accepted route, selector, runtime and company-state route agreed at the October 25 acceptance point. A stale Command Center `CEO route: NONE` display is projection debt unless it affects actual execution.
 
-What is publicly supported:
+The first verified current semantic commercial effect is also now public: an independently initiated Equisettle inbound received a governed B1 reply that was independently Sent-folder verified and is awaiting buyer response. This is an external commercial effect, **not** a signed customer, booked demo, recognized revenue or collected cash result.
+
+Current execution is focused on producing one **new verified external effect**. The preferred marketplace path is an AI-automation Fiverr listing through native real-Chrome control. The QuickBooks cleanup listing is held because the platform requested a financial-services attestation that is not currently supported by verified evidence.
+
+Cash truth remains strict: current Mercury API reachability is blocked, so **CURRENT CASH is UNKNOWN**. The **LAST VERIFIED CASH** observation is **$0.96** from an earlier authoritative treasury read; it is not promoted into a current-cash claim.
+
+What is publicly supported now includes:
 
 - one canonical Hermes-native CEO/company loop;
 - owner **root + veto** governance;
-- scheduled and event-driven CEO execution demonstrated within scoped windows;
+- naturally executed Beam production routing with four-way agreement at acceptance;
 - independent verification and failure preservation;
-- commercial due-time waking and live buyer-signal discovery demonstrated;
-- current verified MetaCall delivery scope kept narrower than the broader roadmap;
-- semantic progress accounting that distinguishes real state change from tool/model/process activity;
-- bounded no-effect execution recorded as **STAGNATION**, not healthy progress;
-- capability-scoped TOOL/CEO qualification separated from production authority;
-- evidence-based route rehabilitation and revocation without rewriting failure history;
-- a real production route failure preserved, causally diagnosed and used to harden the contract;
-- failure-learning doctrine incorporated into governance.
+- commercial due-time waking and live buyer-signal discovery;
+- a verified current semantic commercial effect from an independently initiated inbound;
+- follow-up states that distinguish due, not-due, blocked and nonexistent work;
+- semantic progress accounting that counts a real effect once rather than process activity;
+- bounded marketplace holds when attestations are unsupported;
+- strict separation of current cash from last verified cash.
 
 What is **not** publicly claimed:
 
-- a signed new customer from the current autonomous campaign;
-- collected customer cash;
+- a signed new customer;
+- a booked demo;
+- collected customer cash as a current authoritative measurement;
 - recognized recurring revenue;
+- a published Fiverr listing;
 - a sponsor/investor/acquirer commitment;
 - repeatable customer acquisition;
 - full 24/7 economic autonomy;
