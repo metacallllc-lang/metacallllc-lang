@@ -63,42 +63,55 @@ When cash/runway is tight, fast-cash and resource-acquisition opportunities rece
 
 ## Current public evidence boundary
 
-The public repository is now indexed through **October 25, 2026**.
+The public record is now reconciled through **October 26, 2026**.
 
-**Current operating boundary:** governance remains sealed/verified; owner remains **root + veto**; natural production CEO execution has resumed through Beam; the accepted route, selector, runtime and company-state route agreed at the October 25 acceptance point. A stale Command Center `CEO route: NONE` display is projection debt unless it affects actual execution.
+**Current operating boundary:** the company has recent exactly-one-gateway/cron acceptance and bounded free-route production evidence, but the Command Center/read-side can become stale/degraded and must not outrank canonical evidence.
 
-The first verified current semantic commercial effect is also now public: an independently initiated Equisettle inbound received a governed B1 reply that was independently Sent-folder verified and is awaiting buyer response. This is an external commercial effect, **not** a signed customer, booked demo, recognized revenue or collected cash result.
+The commercial picture is now clearer:
 
-Current execution is focused on producing one **new verified external effect**. The preferred marketplace path is an AI-automation Fiverr listing through native real-Chrome control. The QuickBooks cleanup listing is held because the platform requested a financial-services attestation that is not currently supported by verified evidence.
+- outbound send, reply detection and governed reply send are reported **READY** in the latest commercial-readiness snapshot;
+- B1 outbound authority is authorized;
+- Mercury ACH/wire and invoicing are enabled and payment collection is **CONFIGURED**, but no real customer payment has yet live-verified the collection path;
+- a CRO assignment was truthfully reconciled as **TIMED_OUT_NEVER_RAN** after dispatch failed to become actual executive execution;
+- ContactOut offered an extended no-cost trial of approximately **2,000 contacts**; this is a resource/vendor opportunity, not customer, revenue, cash or funding;
+- social distribution remains active work: an empty MetaBot queue means **CONTENT_GENERATION_DUE** when fresh verified evidence exists, while MetaCall/LinkedIn retain separate credential/review blockers in the latest accepted state;
+- **CURRENT CASH is UNKNOWN** unless freshly measured; **LAST VERIFIED CASH is $0.96** from the dated authoritative treasury observation.
 
-Cash truth remains strict: current Mercury API reachability is blocked, so **CURRENT CASH is UNKNOWN**. The **LAST VERIFIED CASH** observation is **$0.96** from an earlier authoritative treasury read; it is not promoted into a current-cash claim.
+The operating priority is now:
+
+**SELL → FOLLOW UP → CLOSE → COLLECT → ONBOARD → FULFILL → VERIFY → DELIVER → RETAIN**
+
+Engineering should outrank commercial work only when a fresh measured defect directly blocks that chain.
 
 What is publicly supported now includes:
 
-- one canonical Hermes-native CEO/company loop;
 - owner **root + veto** governance;
-- naturally executed Beam production routing with four-way agreement at acceptance;
-- independent verification and failure preservation;
-- commercial due-time waking and live buyer-signal discovery;
-- a verified current semantic commercial effect from an independently initiated inbound;
-- follow-up states that distinguish due, not-due, blocked and nonexistent work;
-- semantic progress accounting that counts a real effect once rather than process activity;
-- bounded marketplace holds when attestations are unsupported;
-- strict separation of current cash from last verified cash.
+- evidence-first failure preservation;
+- recent scoped production routing/gateway acceptance;
+- commercially READY send/reply rails;
+- a configured payment mechanism awaiting its first real customer receipt;
+- current buyer/reply pipeline states;
+- strict separation of pipeline, offers, credits, cash and recognized revenue;
+- independent economic lanes for sales, funding/resources and social distribution.
 
 What is **not** publicly claimed:
 
 - a signed new customer;
-- a booked demo;
-- collected customer cash as a current authoritative measurement;
 - recognized recurring revenue;
-- a published Fiverr listing;
-- a sponsor/investor/acquirer commitment;
+- collected customer cash from a new sale;
+- ContactOut trial activation;
+- sponsor, grant or VC cash received;
+- activated startup credits;
+- LinkedIn organization publishing;
+- fully reliable C-suite execution;
+- fully reliable Command Center projection;
 - repeatable customer acquisition;
 - full 24/7 economic autonomy;
 - the long-term liquidity objective achieved.
 
-The project deliberately keeps those boundaries strict.
+The next proof target is **qualified buyer → governed close → independently verified payment receipt**.
+
+[Read the October 26 reconciliation →](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/PRODUCTION_RECONCILIATION_2026-10-26.md)
 
 ## Why this project exists
 
