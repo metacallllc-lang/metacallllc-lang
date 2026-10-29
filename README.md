@@ -61,6 +61,14 @@ expected value × probability × speed × margin × strategic value
 
 When cash/runway is tight, fast-cash and resource-acquisition opportunities receive more weight—but the other engines remain active.
 
+## Latest operating progress — October 29, 21:25 UTC
+
+The previously blocked runtime now has an independently qualified exact free TOOL + CEO route. Delegation was enabled through the Windows owner control, and the satisfied model-wake hold was cleared. Admission retains a proof-expiry deadline and paid inference remains separately gated. **Live production C-suite completion and full commercial autonomy remain to be verified.** [Dated qualification, repairs and limits](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_2026-10-29.md). Earlier unavailable/paused checkpoints below are preserved history.
+
+## Latest verified engineering result — October 29
+
+The production launcher completed a real deterministic pass at 21:01:32 UTC with `MODEL_WAKE_HELD`, zero inference calls and no event acknowledgements. Company state and health refreshed while delegation stayed paused. This repair addresses wake evidence and separates compute permission from executive starts. **It does not establish full autonomous C-suite execution.** [Read the audit and repository/build boundaries](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_2026-10-29.md).
+
 ## October 29 — evidence-backed progress
 
 **MetaBot is an engineering experiment in accountable autonomous operations, not a claim of a profitable AI-run company.** The latest privately verified milestone adds a Windows owner-controlled **company-compute OFF/PARKED** mode alongside the separate C-suite delegation pause, with authenticated controls, restart protection, auditable state and scope-limited process observations. In the recorded acceptance, no identified executive workloads remained running while parked. Whole-computer CPU still varied widely; the result is a safer resource-control boundary, not a blanket performance speedup.
@@ -77,9 +85,9 @@ GitHub Sponsors tiers have been configured, but the public checkout was **not in
 
 The October 26 block below is a preserved historical checkpoint, not the latest running state.
 
-## Current public evidence boundary
+## Preserved October 26 public evidence boundary
 
-The public record is now reconciled through **October 26, 2026**.
+The following section preserves the **October 26, 2026** checkpoint; the newer October 29 audit above supersedes its time-bound status.
 
 **Current operating boundary:** the company has recent exactly-one-gateway/cron acceptance and bounded free-route production evidence, but the Command Center/read-side can become stale/degraded and must not outrank canonical evidence.
 
