@@ -61,6 +61,22 @@ expected value × probability × speed × margin × strategic value
 
 When cash/runway is tight, fast-cash and resource-acquisition opportunities receive more weight—but the other engines remain active.
 
+## October 29 — evidence-backed progress
+
+**MetaBot is an engineering experiment in accountable autonomous operations, not a claim of a profitable AI-run company.** The latest privately verified milestone adds a Windows owner-controlled **company-compute OFF/PARKED** mode alongside the separate C-suite delegation pause, with authenticated controls, restart protection, auditable state and scope-limited process observations. In the recorded acceptance, no identified executive workloads remained running while parked. Whole-computer CPU still varied widely; the result is a safer resource-control boundary, not a blanket performance speedup.
+
+**What remains to prove:** a current admissible CEO model/tool route; one naturally executed and independently verified CEO→C-suite outcome; repeatable customer acquisition, payment and delivery. The company has **not** verified new collected customer revenue or active 24/7 executive autonomy in the current acceptance window.
+
+**Start reviewing:** [October 29 engineering evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) · [Current limits](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md) · [Evidence ledger](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md)
+
+### Support the next independently verifiable milestone
+
+If you can help with privacy-compatible inference credits, compute/hardware evaluation, AI agent governance research, independent verification or a bounded enterprise pilot, see the [sponsorship and research opportunities](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/SPONSORSHIP.md) or [open a non-confidential discussion issue](https://github.com/metacallllc-lang/hermes-autonomous-company/issues).
+
+GitHub Sponsors tiers have been configured, but the public checkout was **not independently confirmed active** as of this update. No payment or sponsor commitment is implied. Support does not grant credentials, owner authority or access to private customer data.
+
+The October 26 block below is a preserved historical checkpoint, not the latest running state.
+
 ## Current public evidence boundary
 
 The public record is now reconciled through **October 26, 2026**.
