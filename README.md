@@ -33,7 +33,10 @@ records do not substitute for that result.
 
 The private company integration is separate from the public Hermes fork. Public
 documentation does not ship that integration or certify every historical guard.
-The fork’s hosted build status must be checked on its current commit.
+The [fork build repair](https://github.com/metacallllc-lang/hermes-agent/pull/3)
+passed all expected hosted workflows on reviewed head `fc1c81404f20` and was merged.
+That acceptance includes 60,471 Linux tests, Windows x64 and ARM64, JavaScript,
+macOS and selected package builds. It does not certify future commits or releases.
 
 [Current operating evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_2026-10-31.md)
 · [Evidence index](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md)
