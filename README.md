@@ -6,38 +6,46 @@
 
 I’m building governed autonomous company operations on
 [Nous Research’s Hermes Agent](https://github.com/NousResearch/hermes-agent).
-The work connects an AI CEO and C-suite with explicit authority, durable company
-state, bounded execution and independent evidence checks.
+The work connects an AI CEO and C-suite with explicit owner authority,
+durable company state, bounded execution and independent evidence checks.
 
-| Project | What is here |
-|---|---|
-| [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Agent source and build compatibility work. [Current build repair](https://github.com/metacallllc-lang/hermes-agent/pull/3). |
-| [Autonomous company operating record](https://github.com/metacallllc-lang/hermes-autonomous-company) | Public architecture, dated evidence, commercial strategy and operating limits. |
+| Project | Work completed and current scope |
+| --- | --- |
+| [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Standard-runner, Windows build, provider credential and timezone repairs [merged in PR #3](https://github.com/metacallllc-lang/hermes-agent/pull/3). The newer [catalog-test repair #4](https://github.com/metacallllc-lang/hermes-agent/pull/4) remains open. |
+| [Autonomous company operating record](https://github.com/metacallllc-lang/hermes-autonomous-company) | Architecture, completed milestones, dated evidence and outstanding acceptance work. Private integration source is separate. |
 
-## Current evidence — November 2, 2026
+## Completed work — reviewed November 5, 2026
 
-The private company remains **commercially stalled**. A false dashboard alert
-about a missing CEO completion was repaired; a fresh read-only observation on
-November 2 still reported **STAGNATION**. A completed scheduled check is not
-proof of useful executive work or an economic result.
+- **Public fork build repair accepted and merged:** standard hosted runners,
+  bounded completion budgets, Windows SDK/Git discovery, provider credential
+  compatibility and a timezone regression correction. Acceptance belongs to the
+  reviewed October 31 head, not every future commit or release.
+- **Native executive work and continuation demonstrated:** November 3 company
+  evidence records real CRO execution, independent result verification,
+  assignment retirement and automatic completion acknowledgement.
+- **Scheduling repair demonstrated:** November 4 evidence records a corrected
+  one-shot deadline handoff, **57 passing focused checks**, and a natural launcher
+  completion with a verified scheduling receipt.
+- **Governance and evidence controls implemented:** separate owner compute and
+  delegation controls, bounded free-model admission, preserved failed proofs,
+  truthful monitoring and dated source snapshots.
 
-The most recent complete company audit passed **137 of 149 suites**, with
-**12 failures**, before a later six-file monitoring correction. Three focused
-observer suites passed afterward. Full company build acceptance remains
-incomplete; the complete audit has not been rerun after that follow-up.
+## Acceptance still open
 
-Earlier healthy startup checks and free model selections remain dated evidence.
-**No verified client, collected customer revenue, funding award or continuous
-commercial autonomy is established by these checks.**
+The latest complete company audit passed **133 of 149 suites** on November 3.
+Separate repaired reruns bring the combined latest-result view to **144/149**,
+with five suites unresolved; that is not a new full passing audit. The private
+recovery archive remains draft and unmerged. Public fork PR #4 also remains
+unmerged: two macOS checks did not execute and its aggregate CI remains failed.
 
-The private company integration is separate from the public Hermes fork. Public
-documentation does not ship that integration or certify every historical guard.
-The [fork build repair](https://github.com/metacallllc-lang/hermes-agent/pull/3)
-passed all expected hosted workflows on reviewed head `fc1c81404f20` and was merged.
-That acceptance includes 60,471 Linux tests, Windows x64 and ARM64, JavaScript,
-macOS and selected package builds. It does not certify future commits or releases.
+The November 5 local health artifact reports **DEGRADED**. Current cash and
+recognised revenue remain **UNKNOWN**. These engineering results establish no
+new verified customer conversion, collected payment, funding award, self-funding
+or continuous commercial autonomy. Model admission requires fresh proof; older
+free-route selections are dated observations.
 
-[Current operating evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/GITHUB_REVIEW_2026-11-02.md)
+[Completed work and evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/WORK_COMPLETED_2026-11-05.md)
+· [Current operating record](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/CURRENT_STATE.md)
 · [Evidence index](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md)
 · [Commercial strategy](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/COMMERCIAL_OPERATING_STRATEGY.md)
 · [Preserved profile history](HISTORY.md)
