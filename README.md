@@ -34,24 +34,21 @@ supports. That is the infrastructure I’m building in public.
 | [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Scoped build, Windows runtime, provider and test repairs, with upstream attribution. |
 | [Current evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md) | Dated results and the work still ahead. |
 
-## On the bench · November 6, 2026
+## What works now · November 6, 2026
 
-The six executive routes now use **DeepSeek V4.1 Flash 1017 on OpenRouter**.
-Native TOOL and CEO qualification passed. A **48-hour field trial** is running
-through **November 8, 10:36 AM Guatemala time**, measuring actual execution,
-reliability, costs and business outcomes. Interactive activity is tracked separately
-from autonomous company work. [Read the experiment](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/OPENROUTER_TRIAL_2026-11-06.md).
+A redesigned VEXO command center shows completed steps, blockers, executive
+ownership and the next action. Normal CEO scheduling has independently reconciled
+at least two CRO tasks, each running once on **DeepSeek V4.1 Flash 1017 via OpenRouter**.
+Cycle, ownership and Hermes v0.23 duplicate-execution defects are repaired.
 
-Recent progress includes native executive completion and continuation, scheduling
-and mailbox repairs, truthful observation and **41 passing focused checks** for
-the paid trial and execution lifecycle. The public build repair [PR #3](https://github.com/metacallllc-lang/hermes-agent/pull/3)
-is merged; [PR #4](https://github.com/metacallllc-lang/hermes-agent/pull/4) remains open.
+The new complete audit ran **157 suites: 148 passed, 9 did not pass**.
+Historical proof and integration coverage limits remain explicit. Internal task
+completion is verified; customer conversion, collected revenue, funding awards
+and self-funding remain unproven. [Read the repair evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md).
 
-The latest full company audit passed **133/149** suites. Separate repaired reruns
-bring the latest-result view to **147/149**, with two historical suites still
-unresolved; this is not a new full passing audit. Customer conversion, collected
-revenue, funding awards, self-funding and sustained commercial autonomy remain
-unproven. The experiment’s results will be reported from evidence.
+The original 48-hour field trial ends **November 8 at 10:36 AM Guatemala time**.
+The [Hermes build PR](https://github.com/metacallllc-lang/hermes-agent/pull/4) is
+reviewed separately from private company operation.
 
 ## Build with me
 
