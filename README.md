@@ -40,6 +40,9 @@ A redesigned VEXO command center shows completed steps, blockers, executive
 ownership and the next action. Normal CEO scheduling has independently reconciled
 at least two CRO tasks, each running once on **DeepSeek V4.1 Flash 1017 via OpenRouter**.
 Cycle, ownership and Hermes v0.23 duplicate-execution defects are repaired.
+Recent hardening adds verified task handoffs and safe runtime maintenance;
+all **27 focused repair checks pass**. The complete source audit was repeated
+after those changes, with the result below unchanged.
 
 The new complete audit ran **157 suites: 148 passed, 9 did not pass**.
 Historical proof and integration coverage limits remain explicit. Internal task
