@@ -34,20 +34,19 @@ supports. That is the infrastructure I’m building in public.
 | [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Scoped build, Windows runtime, provider and test repairs, with upstream attribution. |
 | [Current evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md) | Dated results and the work still ahead. |
 
-## What works now - November 7, 2026
+## What works now — November 7, 2026
 
-A redesigned VEXO command center shows completed steps, blockers, ownership and
-the next action. Normal scheduling independently reconciled two CRO tasks on
-**DeepSeek V4.1 Flash 1017 via OpenRouter**. The root CEO also has verified
-single-occurrence execution. The public [Hermes build repair](https://github.com/metacallllc-lang/hermes-agent/pull/4)
-is merged after hosted verification.
+The VEXO dashboard, source-evidence checkpoints, health-report clearing and runtime
+deployment checks have been repaired. Normal scheduling previously verified
+single-occurrence executive work on **DeepSeek V4.1 Flash 1017 via OpenRouter**.
+The public [Hermes build repair](https://github.com/metacallllc-lang/hermes-agent/pull/4)
+is merged with separate hosted and native Windows proof.
 
-The final complete company audit ran **159 suites: 150 passed,
-9 did not pass**. Focused final checks cover 15 lifecycle scenarios,
-eight research-receipt tests, 19 supervision checks and 11 mission-evidence tests. Historical proof,
-integration coverage and preparation overhead remain explicit. Customer conversion,
-collected revenue, funding awards and self-funding remain unproven.
-[Read the repair evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md).
+The latest complete frozen-source company audit ran **163 suites:
+155 passed, 8 nonpassing**. A discovery-to-queue fixture admits one
+new qualified synthetic signal exactly once; real customers, collected revenue,
+funding awards and self-funding remain unproven. Historical proof and integration
+limits remain explicit. [Read the recovery evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/RECOVERY_ENGINEERING_2026-11-07.md).
 
 The original 48-hour field trial ends **November 8 at 10:36 AM Guatemala time**.
 
