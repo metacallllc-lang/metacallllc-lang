@@ -34,21 +34,20 @@ supports. That is the infrastructure I’m building in public.
 | [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Scoped build, Windows runtime, provider and test repairs, with upstream attribution. |
 | [Current evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md) | Dated results and the work still ahead. |
 
-## What works now — November 7, 2026
+## Where it stands — November 13, 2026
 
-The VEXO dashboard, source-evidence checkpoints, health-report clearing and runtime
-deployment checks have been repaired. Normal scheduling previously verified
-single-occurrence executive work on **DeepSeek V4.1 Flash 1017 via OpenRouter**.
-The public [Hermes build repair](https://github.com/metacallllc-lang/hermes-agent/pull/4)
-is merged with separate hosted and native Windows proof.
+<a href="https://github.com/metacallllc-lang/hermes-autonomous-company">
+  <img src="https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview.jpg" alt="Hermes Command Center, the company's read-only operations dashboard (financial tiles blurred)" width="100%">
+</a>
 
-The latest complete frozen-source company audit ran **163 suites:
-155 passed, 8 nonpassing**. A discovery-to-queue fixture admits one
-new qualified synthetic signal exactly once; real customers, collected revenue,
-funding awards and self-funding remain unproven. Historical proof and integration
-limits remain explicit. [Read the recovery evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/RECOVERY_ENGINEERING_2026-11-07.md).
+A full audit of the company's own ledgers found why it had not earned yet: most CEO cycles ended refusing to
+idle while nothing was executable, outreach waited for buyer intent its sources could not supply, and completed
+executive work was discarded on citation format. Repairs are now deployed: daily growth work, a governed
+outreach wave, model routing that follows my Hermes model picker (DeepSeek V4.1 Flash via OpenRouter today),
+Facebook, Instagram and LinkedIn publishing, and a rebuilt Command Center.
 
-The original 48-hour field trial ends **November 8 at 10:36 AM Guatemala time**.
+The repairs are not yet verified live, and real customers, collected revenue and funding remain unproven.
+[Read the audit and repair evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md).
 
 ## Build with me
 
