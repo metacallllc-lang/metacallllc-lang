@@ -34,20 +34,19 @@ supports. That is the infrastructure I’m building in public.
 | [Hermes Agent fork](https://github.com/metacallllc-lang/hermes-agent) | Scoped build, Windows runtime, provider and test repairs, with upstream attribution. |
 | [Current evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/PUBLIC_EVIDENCE_INDEX.md) | Dated results and the work still ahead. |
 
-## Where it stands — November 13, 2026
+## Where it stands — November 16, 2026
 
 <a href="https://github.com/metacallllc-lang/hermes-autonomous-company">
   <img src="https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview.jpg" alt="Hermes Command Center, the company's read-only operations dashboard (financial tiles blurred)" width="100%">
 </a>
 
-A full audit of the company's own ledgers found why it had not earned yet: most CEO cycles ended refusing to
-idle while nothing was executable, outreach waited for buyer intent its sources could not supply, and completed
-executive work was discarded on citation format. Repairs are now deployed: daily growth work, a governed
-outreach wave, model routing that follows my Hermes model picker (DeepSeek V4.1 Flash via OpenRouter today),
-Facebook, Instagram and LinkedIn publishing, and a rebuilt Command Center.
+The executives now act. Each seat has governed tools for the outcomes it owns: internal actions run at once, and
+external ones (email, marketplace replies, publishing, invoices) post a veto notice with the full message, then
+run after 60 minutes unless I veto. On November 16 two executive-written emails went out, four posts were
+published and the CFO read the bank of record. Five faults that kept the loop from acting were found and repaired.
 
-The repairs are not yet verified live, and real customers, collected revenue and funding remain unproven.
-[Read the audit and repair evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md).
+No customer, collected revenue or funding is claimed yet, and neither email has a reply.
+[Read the action-authority evidence](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md).
 
 ## Build with me
 
