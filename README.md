@@ -37,7 +37,7 @@ supports. That is the infrastructure I’m building in public.
 ## Where it stands — November 16, 2026
 
 <a href="https://github.com/metacallllc-lang/hermes-autonomous-company">
-  <img src="https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview.jpg" alt="Hermes Command Center, the company's read-only operations dashboard (financial tiles blurred)" width="100%">
+  <img src="https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-16.jpg" alt="Hermes Command Center on November 16, the company's read-only operations dashboard (financial tiles and email content blurred)" width="100%">
 </a>
 
 The executives now act. Each seat has governed tools for the outcomes it owns: internal actions run at once, and
